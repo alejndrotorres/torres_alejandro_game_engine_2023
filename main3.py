@@ -3,11 +3,11 @@
 # https://github.com/kidscancode/pygame_tutorials/tree/master/platform 
 
 #Goals:
-
+#Create a Mario like game that has goombas and other mob die when you hit the top of their heads
 #Rules:
-
+#Kill all the mobs on screen
 #Freedom:
-
+#Be able to move and jump freely
 
 # import libraries and modules
 import pygame as pg
